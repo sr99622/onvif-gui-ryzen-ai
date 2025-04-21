@@ -1,0 +1,1 @@
+YOLOX on amd npu 
